@@ -3,7 +3,7 @@
 Sou um estudante de programação que busca se desenvolver na area.
 
 #### Linguagens e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,py,django,arduino,html,css,eclipse,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,django,arduino,html,css,eclipse,replit,vscode)](https://skillicons.dev)
   
 ## Contatos
 <div> 
