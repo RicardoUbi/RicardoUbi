@@ -1,9 +1,9 @@
-# Olá, eu sou Ricardo, programador/desenvolvedor em progresso! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Olá, eu sou Ricardo, desenvolvedor em progresso! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Sou um estudante de desenvolvimento e programação que busca se desenvolver na area.
+Sou um estudante de programação que busca se desenvolver na area.
 
 #### Linguagens e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,py,arduino,html,eclipse,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,django,arduino,html,css,eclipse,replit)](https://skillicons.dev)
   
 ## Contatos
 <div> 
