@@ -7,6 +7,5 @@ Sou um estudante de programação que busca se desenvolver na area.
   
 ## Contatos
 <div> 
-<a href="https://www.instagram.com/ricardo.filh0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ricardo-filho-b38567268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
