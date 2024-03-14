@@ -17,5 +17,5 @@ Sinta-se à vontade para explorar meus repositórios!
 
 ## Contato
 <div> 
-<a href="https://www.linkedin.com/in/ricardo-filho-b38567268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/ricardoubi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
