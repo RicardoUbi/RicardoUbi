@@ -1,6 +1,6 @@
 # Olá, eu sou Ricardo, seja bem vindo! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Sou Desenvolvedor Full Stack em início de carreira, atualmente estou focado na linguagem de programação Python, mas tenho habilidades em outras tecnologias também.
+Sou Desenvolvedor Backend em início de carreira, atualmente estou focado na linguagem de programação Python, mas tenho habilidades em outras tecnologias também.
 Sinta-se à vontade para explorar meus repositórios!
 
 ## Habilidades e Tecnologias
